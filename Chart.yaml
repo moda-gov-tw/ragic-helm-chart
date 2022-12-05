@@ -1,0 +1,7 @@
+apiVersion: v2
+name: ragic
+description: Ragic is a no Code tool for digitizing your business processes. 
+
+type: application
+version: 1.0.0
+appVersion: 20221110
